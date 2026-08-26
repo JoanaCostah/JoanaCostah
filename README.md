@@ -39,7 +39,8 @@ Tenho interesse em **desenvolvimento de aplicações, Backend, integração de s
 
 **Universidade de Caxias do Sul – UCS**
 
-Graduação em Engenharia de Software.
+Bacharelado • 1º semestre  
+**Cursando**
 
 </td>
 
@@ -49,7 +50,8 @@ Graduação em Engenharia de Software.
 
 **SENAI**
 
-Técnico em Desenvolvimento de Sistemas.
+Curso Técnico • Início: Jul/2025  
+**Cursando**
 
 </td>
 
