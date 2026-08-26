@@ -20,9 +20,9 @@ Desenvolvedora em formação, movida por **resolução de problemas**, tecnologi
 
 Sou estudante de **Engenharia de Software na Universidade de Caxias do Sul (UCS)** e curso **Técnico em Desenvolvimento de Sistemas pelo SENAI**.
 
-Estou construindo minha experiência em desenvolvimento de software por meio dos estudos e de projetos práticos, trabalhando com tecnologias como **C#, Python e C**, além de conceitos relacionados a **APIs, MQTT, bancos de dados e desenvolvimento de sistemas**.
+Estou construindo minha experiência em desenvolvimento de software por meio dos estudos e de projetos práticos, trabalhando com tecnologias como **C#, Python e C**, além de conceitos relacionados a **APIs, MQTT, bancos de dados e desenvolvimento de sistemas**
 
-Tenho interesse em **desenvolvimento de aplicações, Backend, integração de sistemas e boas práticas de desenvolvimento de software**.
+Tenho interesse em **desenvolvimento de aplicações, Backend, integração de sistemas e boas práticas de desenvolvimento de software**
 
 > 🚀 Movida pela resolução de problemas, aprendizado contínuo e constante evolução.
 
